@@ -1,4 +1,1 @@
-# Module07 Website
----
-[Google Homepage](https://www.google.com "Google's Homepage")
-[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Website here: [https://github.com/kguite/DBFoundations-Module07](https://kguite.github.io/DBFoundations-Module07/)
