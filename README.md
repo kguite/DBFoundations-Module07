@@ -1,2 +1,4 @@
-# DBFoundations-Module07
-Respository for storing assignments for Module 07 of Database Foundations UW course.
+# Module07 Website
+---
+[Google Homepage](https://www.google.com "Google's Homepage")
+[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
